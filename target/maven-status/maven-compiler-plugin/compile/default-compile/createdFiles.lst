@@ -1,0 +1,10 @@
+org\kolis1on\telegrambot\entity\Invitees.class
+org\kolis1on\telegrambot\TelegramBotApplication.class
+org\kolis1on\telegrambot\repository\InviteesRepository.class
+org\kolis1on\telegrambot\service\UserService.class
+org\kolis1on\telegrambot\entity\User$UserBuilder.class
+org\kolis1on\telegrambot\service\InviteesService.class
+org\kolis1on\telegrambot\entity\User.class
+org\kolis1on\telegrambot\controller\MyTelegramBot.class
+org\kolis1on\telegrambot\entity\Invitees$InviteesBuilder.class
+org\kolis1on\telegrambot\repository\UserRepository.class
